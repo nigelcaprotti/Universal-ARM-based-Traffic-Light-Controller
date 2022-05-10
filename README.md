@@ -11,4 +11,4 @@ One can refer to the associated flow diagram concerning the functionality of the
 While dynamic control was achieved in the context of “mode switching”, further improvements to the posited design could be made in terms of mode switching as well as (SysTick) delays; future work includes using the internal SYSCFG peripheral to implement mode switching and delays as prioritized interrupts.
 
 
-Mazidi, Muhammad Ali, et al. ARM Assembly Language Programming & Architecture. Www.MicroDigitalEd.com, 2016.[^1].
+[^1]Mazidi, Muhammad Ali, et al. ARM Assembly Language Programming & Architecture. Www.MicroDigitalEd.com, 2016.
